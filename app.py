@@ -50,7 +50,7 @@ def home():
 
     <body>
         <div class="container">
-            <h1>CloudXeus Customer Portal</h1>
+            <h1>CloudXeus Customer Portal : v1</h1>
 
             <p>
                 Welcome to our sample Python application running with FastAPI.
