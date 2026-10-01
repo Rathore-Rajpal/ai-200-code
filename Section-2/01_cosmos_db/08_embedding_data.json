@@ -1,0 +1,26 @@
+products = [
+    {
+        "id": "p1",
+        "name": "Trail Runner Pro",
+        "category": "footwear",
+        "description": "Lightweight running shoes designed for mountain trails."
+    },
+    {
+        "id": "p2",
+        "name": "Explorer Hiking Boots",
+        "category": "footwear",
+        "description": "Waterproof boots designed for long hiking trips."
+    },
+    {
+        "id": "p3",
+        "name": "QuietSound Headphones",
+        "category": "electronics",
+        "description": "Wireless headphones with active noise cancellation."
+    },
+    {
+        "id": "p4",
+        "name": "StormShield Jacket",
+        "category": "clothing",
+        "description": "Waterproof outdoor jacket for rainy weather."
+    }
+]

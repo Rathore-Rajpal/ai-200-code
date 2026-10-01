@@ -58,7 +58,7 @@ def home():
 
             <p>
                 This application will be packaged as a container image
-                and deployed to Azure.
+                and deployed to Azure. This is the new line added.
             </p>
 
             <div class="status">
